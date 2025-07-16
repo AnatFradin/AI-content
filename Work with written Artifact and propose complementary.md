@@ -2,7 +2,7 @@ Given the following artifact (e.g., a document, plan, report, or other written c
 
 Artifact: [Insert the full text or description of the artifact here.]
 
-Analyze the artifact to identify its core themes, strengths, gaps, and potential extensions. Then, propose at least four complementary analyses, reports, or artifacts that enhance or build upon the original. Each proposal should be distinct in focus (e.g., one on strategic evaluation, one on operational feasibility, one on stakeholder impact, one on future projections) and explain how it complements the original by addressing underserved aspects or providing deeper insights. For each complementary item:
+Analyze the artifact to identify its core **themes**, **strengths**, **gaps**, and **potential extensions**. Then, propose at least **four** complementary analyses, reports, or artifacts that enhance or build upon the original. Each proposal should be distinct in focus (e.g., one on strategic evaluation, one on operational feasibility, one on stakeholder impact, one on future projections) and explain how it complements the original by addressing underserved aspects or providing deeper insights. For each complementary item:
 
 - **Title and Type**: Suggest a clear title and categorize it (e.g., "SWOT Analysis Report" as a strategic evaluation).
 - **Purpose and Complementarity:** Briefly describe its objective and why it pairs well with the original artifact (e.g., filling a gap in risk assessment).
